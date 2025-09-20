@@ -5,13 +5,20 @@
 <div align="center">
   <samp>
       <br>
-      <b>Seja bem-vindo ao meu perfil!!</b>
+      <h1><b>Seja bem-vindo ao meu perfil!</b></h1>
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosefka&color=664ae0&width=900&size=22&center=true&lines=Ol%C3%A1%2C+eu+sou+o+Dener.;Atualmente+estudando+Desenvolvimento+WEB+no+Senac.;Fique+%C3%A0+vontade+para+conhecer+um+pouco+sobre+mim+%E2%9D%A4" alt="Typing SVG"/>
-</div>
+<table align="center" style="width:100%;">
+  <tr>
+    <td align="left">
+      <img src="https://readme-typing-svg.demolab.com?font=Iosefka&color=664ae0&width=900&size=22&center=true&lines=Ol%C3%A1%2C+eu+sou+o+Dener.;Atualmente+estudando+Desenvolvimento+WEB+no+Senac.;Fique+%C3%A0+vontade+para+conhecer+um+pouco+sobre+mim+%E2%9D%A4" alt="Typing SVG"/>
+    </td>
+    <td align="right">
+      <img height="300" src="https://i.imgur.com/xDypacC.jpg" alt="Jack Fofofo" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
