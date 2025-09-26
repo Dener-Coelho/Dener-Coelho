@@ -39,7 +39,10 @@
   <img align="center" alt="Contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dener-Coelho&theme=react&locale=pt-br"/>
 </div>
 
+
+
 <div align="center" style="display: inline_block"><br>
+  🚀 Tecnologias que utilizo
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -57,7 +60,7 @@
 <details align="center">
   <summary>
       <samp>
-        <b>Mais Informações</b>
+        <b>📬 Mais Informações</b>
       </samp>
   </summary>
   
