@@ -30,7 +30,8 @@
       
 <br>
 <br>
-      
+
+<h1 align="center">  📊 Estatísticas do GitHub </h1>      
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dener-Coelho&show_icons=true&count_private=true&rank_icon=github&theme=react&font=Iosefka&locale=pt-br&hide_rank=true"/>
   <img height=180 align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Coelho&layout=compact&font=Iosefka&langs_count=16&theme=react&locale=pt-br"/>
@@ -38,9 +39,11 @@
   <br>
   <img align="center" alt="Contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dener-Coelho&theme=react&locale=pt-br"/>
 </div>
+<br>
+<br>
 
 
-<p align="center">  🚀 Tecnologias que utilizo </p>
+<h1 align="center">  🚀 Tecnologias que utilizo </h1>
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
