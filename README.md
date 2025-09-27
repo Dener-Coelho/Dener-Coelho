@@ -12,7 +12,7 @@
 <table align="center" style="width:100%;">
   <tr>
     <td align="left">
-      <img src="https://readme-typing-svg.demolab.com?font=Iosefka&color=664ae0&width=900&size=22&center=true&lines=Ol%C3%A1%2C+eu+sou+o+Dener.;Atualmente+estudando+Desenvolvimento+WEB+no+Senac.;Fique+%C3%A0+vontade+para+conhecer+um+pouco+sobre+mim+%E2%9D%A4" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Iosefka&color=664ae0&width=900&size=22&center=true&lines=Ol%C3%A1%2C+eu+sou+o+Dener.;Atualmente+estudando+Desenvolvimento+WEB+no+Senac.;Fique+%C3%A0%20vontade+para+conhecer+um+pouco+sobre+mim+%E2%9D%A4" alt="Typing SVG"/>
     </td>
     <td align="right">
       <img height="300" src="https://i.imgur.com/xDypacC.jpg" alt="Jack Fofofo" />
@@ -33,7 +33,7 @@
       
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dener-Coelho&show_icons=true&count_private=true&rank_icon=github&theme=react&font=Iosefka&locale=pt-br&hide_rank=true"/>
-  <img height=180 align="center" alt="Most Used Languages" src="https://github-profile-details.vercel.app/api/pie?username=Dener-Coelho&theme=react&locale=pt-br"/>
+  <img height=180 align="center" alt="Most Used Languages" src="https://github-profile-details.vercel.app/api/pie?username=Dener-Coelho&theme=react&locale=pt-br&cache_bust=2"/>
   <br>
   <br>
   <img align="center" alt="Contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dener-Coelho&theme=react&locale=pt-br"/>
