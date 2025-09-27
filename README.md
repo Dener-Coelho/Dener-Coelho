@@ -33,7 +33,7 @@
       
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dener-Coelho&show_icons=true&count_private=true&rank_icon=github&theme=react&font=Iosefka&locale=pt-br&hide_rank=true"/>
-  <img height=180 align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Coelho&layout=compact&font=Iosefka&langs_count=16&theme=react&locale=pt-br&cache_bust=1"/>
+  <img height=180 align="center" alt="Most Used Languages" src="https://github-profile-details.vercel.app/api/pie?username=Dener-Coelho&theme=react&locale=pt-br"/>
   <br>
   <br>
   <img align="center" alt="Contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dener-Coelho&theme=react&locale=pt-br"/>
