@@ -32,8 +32,8 @@
 <br>
       
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dener-Coelho&show_icons=true&count_private=true&rank_icon=github&theme=react&font=Iosefka&locale=pt-br&hide_rank=true"/>
-  <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Coelho&layout=donut&langs_count=16&theme=react&locale=pt-br&cache_bust=1"/>
+  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dener-Coelho&show_icons=true&count_private=true&rank_icon=github&theme=react&font=Iosefka&locale=pt-br&hide_rank=true"/>
+  <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Coelho&layout=donut&langs_count=16&theme=react&locale=pt-br&cache_bust=1"/>
 </div>
 
 <br>
@@ -41,6 +41,10 @@
 <div align="center">
   <img align="center" alt="Contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dener-Coelho&theme=react&locale=pt-br"/>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dener-Coelho/Dener-Coelho/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
