@@ -42,10 +42,6 @@
   <img align="center" alt="Contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dener-Coelho&theme=react&locale=pt-br"/>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dener-Coelho/Dener-Coelho/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
