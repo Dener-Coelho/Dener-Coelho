@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-  <img height="200" src="https://i.imgur.com/xDypacC.jpg" alt="Jack Sparrow" style="border-radius: 50%;" />
+  <img height="180" src="https://i.imgur.com/xDypacC.jpg" alt="Jack Sparrow" style="border-radius: 50%;" />
   <h1><b>Seja bem-vindo ao meu perfil!</b></h1>
   <img src="https://readme-typing-svg.demolab.com?font=Iosefka&color=664ae0&width=600&size=22&center=true&lines=Ol%C3%A1%2C+eu+sou+o+Dener.;Estudante+de+Desenvolvimento+WEB+no+Senac.;Fique+%C3%A0+vontade+para+conhecer+meu+trabalho!+%E2%9D%A4" alt="Typing SVG"/>
 </div>
@@ -27,14 +27,15 @@
 
 <div align="center">
   <h2> 📊 Estatísticas </h2>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dener-Coelho&show_icons=true&theme=react&border_color=664ae0&bg_color=0D1117&title_color=664ae0&icon_color=664ae0" alt="GitHub Stats" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Coelho&layout=compact&theme=react&border_color=664ae0&bg_color=0D1117&title_color=664ae0&icon_color=664ae0" alt="Most Used Languages" />
+  <br>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dener-Coelho&layout=compact&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dener-Coelho&show_icons=true&theme=react&hide_border=true" />
 </div>
 
+<br>
+
 <div align="center">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dener-Coelho&theme=react" alt="Summary Cards" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dener-Coelho&theme=react-dark&area=true&hide_border=true" />
 </div>
 
 <br>
